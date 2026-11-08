@@ -2,8 +2,10 @@
 
 A modern, fast, and fully responsive dental clinic website built with React and Tailwind CSS. The interface is optimized for excellent user experience and maximum conversion rates.
 
-![Dentia Desktop Preview](/image.png)
-![Dentia Mobile View Preview](/image-1.png)
+<img width="670" height="311" alt="image" src="https://github.com/user-attachments/assets/a31cfca6-3cdb-4be9-acaf-b016041f744d" />
+
+<img width="674" height="317" alt="image" src="https://github.com/user-attachments/assets/a86d9808-1afc-43bb-bb2f-9a9d93d5c86d" />
+
 
 ## Core Features Implemented
 
